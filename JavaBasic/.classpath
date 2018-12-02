@@ -4,5 +4,7 @@
 	<classpathentry kind="src" path="basicgrammar"/>
 	<classpathentry kind="src" path="class_structure"/>
 	<classpathentry kind="src" path="inheritance_polymorphism"/>
+	<classpathentry kind="src" path="abstract_interface"/>
+	<classpathentry kind="src" path="innerclass"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
